@@ -1,0 +1,99 @@
+{
+	"completed_in":0.018,
+	"max_id":332512052264435713,
+	"max_id_str":"332512052264435713",
+	"page":1,
+	"query":"markafoni",
+	"refresh_url":"?since_id=332512052264435713&q=markafoni&result_type=recent",
+	"results":[
+	{
+		"created_at":"Thu, 09 May 2013 15:07:05 +0000",
+		"from_user":"iremerdal",
+		"from_user_id":333084609,
+		"from_user_id_str":"333084609",
+		"from_user_name":"\u0130rem Erdal",
+		"geo":null,
+		"id":332512052264435713,
+		"id_str":"332512052264435713",
+		"iso_language_code":"tr",
+		"metadata":{"result_type":"recent"},
+		"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/3579501305\/875cf6df67e40fb98b8515c7b7810916_normal.jpeg",
+		"profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/3579501305\/875cf6df67e40fb98b8515c7b7810916_normal.jpeg",
+		"source":"<a href="http:\/\/twitter.com\/">web<\/a>",
+		"text":"#BenHerG\u00fcn tutku dolu bir a\u015fktan bile daha tutkuludur @markafoni ve @marjincomtr a\u015fk\u0131m diye dola\u015f\u0131r\u0131m:)"
+	},
+	{
+		"created_at":"Thu, 09 May 2013 15:06:10 +0000",
+		"from_user":"bulbulzeynep",
+		"from_user_id":567653109,
+		"from_user_id_str":"567653109",
+		"from_user_name":"zeynep b\u00fclb\u00fcl","geo":{"coordinates":[0.0,0.0],"type":"Point"
+	},
+	"id":332511819606417408,
+	"id_str":"332511819606417408",
+	"iso_language_code":"tr",
+	"metadata":{"result_type":"recent"},
+	"place":{
+		"full_name":"Turkey",
+		"id":"682c5a667856ef42",
+		"type":"COUNTRY"
+		},
+	"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/3144509802\/a57f957cb00bc0c583350ba88a7c2bd1_normal.jpeg",
+	"profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/3144509802\/a57f957cb00bc0c583350ba88a7c2bd1_normal.jpeg",
+	"source":"<a href="http:\/\/twitter.com\/">web<\/a>",
+	"text":"ya markafoni reklam\u0131 \u00e7ok sevimli olmam\u0131\u015f m\u0131 :)"}
+],"results_per_page":32,"since_id":332511529637396480,"since_id_str":"332511529637396480"}
+
+{
+	"completed_in":0.011,
+	"max_id":332813914687541249,
+	"max_id_str":"332813914687541249",
+	"page":1,
+	"query":"markafoni",
+	"refresh_url":"?since_id=332813914687541249&q=markafoni&result_type=recent",
+	"results":[{
+		"created_at":"Fri, 10 May 2013 11:06:35 +0000",
+		"from_user":"FansSerenay",
+		"from_user_id":966795781,
+		"from_user_id_str":"966795781",
+		"from_user_name":"Fans Serenay\u2655",
+		"geo":null,
+		"id":332813914687541249,
+		"id_str":"332813914687541249",
+		"iso_language_code":"und",
+		"metadata":{
+			"result_type":"recent"
+			},
+		"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/3578329489\/c0585deeaec858f8e6e28b4582f49382_normal.jpeg",
+		"profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/3578329489\/c0585deeaec858f8e6e28b4582f49382_normal.jpeg",
+		"source":"<a href="http:\/\/twitter.com\/">web<\/a>",
+		"text":"#FF @markafoni"
+	},
+	{
+		"created_at":"Fri, 10 May 2013 11:05:17 +0000",
+		"from_user":"markafoni",
+		"from_user_id":19768665,
+		"from_user_id_str":"19768665",
+		"from_user_name":"Markafoni",
+		"geo":null,
+		"id":332813587754139648,
+		"id_str":"332813587754139648",
+		"iso_language_code":"tr",
+		"metadata":{
+			"result_type":"recent"
+		},
+		"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/2424790586\/kqrn7dsmk2ww6pne2kah_normal.png",
+		"profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/2424790586\/kqrn7dsmk2ww6pne2kah_normal.png",
+		"source":"<a href="http:\/\/twitter.com\/">web<\/a>",
+		"text":"@OzgeKiylioglu Konu ile ilgili olarak taraf\u0131n\u0131za detayl\u0131 bilgilendirme sa\u011flanm\u0131\u015ft\u0131r. \u0130lginiz ve anlay\u0131\u015f\u0131n\u0131z i\u00e7in te\u015fekk\u00fcr ederiz. Sevgiler.",
+		"to_user":"OzgeKiylioglu",
+		"to_user_id":95105722,
+		"to_user_id_str":"95105722",
+		"to_user_name":"Ragazza Nera",
+		"in_reply_to_status_id":332807207936749568,
+		"in_reply_to_status_id_str":"332807207936749568"
+	}],
+	"results_per_page":50,
+	"since_id":332807207936749568,
+	"since_id_str":"332807207936749568"
+}
