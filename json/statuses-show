@@ -1,0 +1,25 @@
+{"created_at":"Sun, 12 May 2013 08:31:40 +0000",
+"from_user":"ilknury94123778",
+"from_user_id":576187647,
+"from_user_id_str":"576187647",
+"from_user_name":"ilknur y\u0131ld\u0131z",
+"geo":null,
+"id":333499706971934720,
+"id_str":"333499706971934720",
+"iso_language_code":"tr",
+"metadata":{"result_type":"recent"},
+"profile_image_url":"http:\/\/a0.twimg.com\/profile_images\/3632029801\/2efefbd6307ae2db8bd4674540ae7c82_normal.png",
+"profile_image_url_https":"https:\/\/si0.twimg.com\/profile_images\/3632029801\/2efefbd6307ae2db8bd4674540ae7c82_normal.png",
+"source":"<a href="http:\/\/twitter.com\/">web<\/a>",
+"text":"@TucePtk @markafoni tu\u011f\u00e7e bana kar\u0131\u015fmassan sevinirim....",
+"to_user":"TucePtk",
+"to_user_id":1119031428,
+"to_user_id_str":"1119031428",
+"to_user_name":"harrymtu\u011f\u00e7e",
+"in_reply_to_status_id":328193749614198784,
+"in_reply_to_status_id_str":"328193749614198784"}
+
+
+$connection->get('statuses/show', array('id' => $id_str));
+
+stdClass Object ( [created_at] => Fri May 10 10:39:56 +0000 2013 [id] => 332807207936749568 [id_str] => 332807207936749568 [text] => @markafoni sipariÅŸ no: 52413619619601 [source] => web [truncated] => [in_reply_to_status_id] => 332803887209803776 [in_reply_to_status_id_str] => 332803887209803776 [in_reply_to_user_id] => 19768665 [in_reply_to_user_id_str] => 19768665 [in_reply_to_screen_name] => markafoni [user] => stdClass Object ( [id] => 95105722 [id_str] => 95105722 [name] => Ragazza Nera [screen_name] => OzgeKiylioglu [location] => Istanbul [url] => http://Instagram.com/ozgekiylioglu/ [description] => Hot summer nights mid July when you and I were forever wild... [protected] => [followers_count] => 134 [friends_count] => 83 [listed_count] => 0 [created_at] => Mon Dec 07 01:00:43 +0000 2009 [favourites_count] => 291 [utc_offset] => 7200 [time_zone] => Istanbul [geo_enabled] => 1 [verified] => [statuses_count] => 4982 [lang] => tr [contributors_enabled] => [is_translator] => [profile_background_color] => 050749 [profile_background_image_url] => http://a0.twimg.com/profile_background_images/744053269/f3cb756619b25886613ae390159e9aec.png [profile_background_image_url_https] => https://si0.twimg.com/profile_background_images/744053269/f3cb756619b25886613ae390159e9aec.png [profile_background_tile] => 1 [profile_image_url] => http://a0.twimg.com/profile_images/3486375304/e56c3acef6793d53902ee75ef9b0527b_normal.jpeg [profile_image_url_https] => https://si0.twimg.com/profile_images/3486375304/e56c3acef6793d53902ee75ef9b0527b_normal.jpeg [profile_banner_url] => https://pbs.twimg.com/profile_banners/95105722/1362140759 [profile_link_color] => 453D60 [profile_sidebar_border_color] => 000000 [profile_sidebar_fill_color] => B7CDB9 [profile_text_color] => 848796 [profile_use_background_image] => 1 [default_profile] => [default_profile_image] => [following] => [follow_request_sent] => [notifications] => ) [geo] => [coordinates] => [place] => [contributors] => [retweet_count] => 0 [favorite_count] => 0 [favorited] => [retweeted] => [lang] => id ) 
