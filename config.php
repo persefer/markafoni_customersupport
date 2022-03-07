@@ -6,6 +6,6 @@
  */
 
 
-define('CONSUMER_KEY', '9pA2skvOtxHQxngAUmLDw');
-define('CONSUMER_SECRET', 'e65ZDBjv1K02shzKlOlOSgnKZAHlh7VwIDuGDrJzc');
+define('CONSUMER_KEY', '***');
+define('CONSUMER_SECRET', '***');
 define('OAUTH_CALLBACK', 'http://www.tweetduvar.im/customersupport/callback.php');
